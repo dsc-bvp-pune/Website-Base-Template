@@ -1,0 +1,61 @@
+
+
+Projects
+  1. Attendance QR code Scanner:
+    The challenge was to create a robust, dynamic system to manage the way attendance is marked.
+    We thought for days and concluded on a plan.
+    The plan was to generate QR code's which had embedded encrypted data to uniquely identify attendance. 
+    We tackled the portion for server deployment and backend development in the first 3 hours. 
+    However, the portion to handle Database Management Queries and real time management took some time. 
+    We created a mobile application both for Android and iOS.
+    Before the first day we were able to mark the attendance and generate real time notifications for the students. 
+    The next day we focused on automating the process for sending out emails to defaulters and eliminating proxies, thus creating a foolproof attendance recording system. 
+    This system eradicates paperwork, human error and a lot of time.
+    
+  2. Doc-Tag:
+    Creation of a document tagging application which will make it easier for students and professionals to search through there document using any specific keyword they want. 
+    A team of 4-5 people worked on this project using the flask framework of python learning at the initial stage and then implementing the knowledge to make the web and the mobile application. 
+    The application faced issues in fetching more then 5 documents at the time and to solve that issue some modules and frameworks were changed to even get through that obstacle. 
+
+  3. Smart Irrigation:
+      The smart water irrigation system developed by our team is an adaptive plants and crops irrigation system.
+      The purposes of our smart water irrigation system are to provide water delivering schedule to the crops to ensure all the crops have enough water for their healthy growth, to reduce the amount of water wasted in irrigation, and to minimize the Economic cost for the users.
+      In our prototype we have used electronics components like WEMOS D1 R2 Mini, Capacitive Soil Moisture Sensor, Step Up Dc to Dc converter, Solenoid Valve, SPDT Relay, Solar panel etc. 
+      The functionality of the above-mentioned component has been integrated or clubbed together to develop the Smart way of irrigation system. 
+      Here the team helped in placing and soldering of the component at the required places on the Printed Circuit Boards (PCBs).
+      After placing, each and every component has been linked with the Android Application made for this specific prototype. 
+      The working and development of the whole project is coded on the basis of timing and requirement of moisture in the field. 
+      The prototype is made completely by the team i.e Soldering, connections, building the android application, integrating the hardware with software was all done by the team
+    
+    4. Leo-BVP Website:
+       The Leo Club at Bharati Vidyapeeth recently conducted the 20th Season of Fireball, an inter basketball tournament.
+       For this purpose, they required a fully revamped, redefined and restructured, yet robust website.
+       A common member informed us about the project, and we took it upon ourselves to complete it.
+       The project was divided into four portions, which went as follows:
+          1. Deciding platforms/Tech Stacks:
+	            a. Framework: Django v/s PHP
+	            b. Deployment Service: DigitalOcean v/s Heroku v/s AWS
+          2. Discussion and division of structure of website: Clean,flexible UI and a responsive platform needed for a 
+	            User-friendly experience.
+          3. Division of Website:
+	            a. Creating user management module, required for ease of changing profile settings
+            	b.Easy maintenance: Adding or Editing data.
+          4. The framework chosen was Django, while the platform was Heroku
+        As Leo is an NPO, it was economical in the long run to provide Heroku.
+        As for the time required, we utilized 7-8 days for the backend, while the frontend cost us only 3-4 days, and the bugs pointed out were fixed before the website was made live.
+        Overall, it was quite a fun experience for all of us at DSC-BVP, Pune
+      
+    
+Workshops
+  1. Automation with Python:
+    Conducted by- Dewansh Rawat (DSC-BVP Core Member):
+      The Automation with Python workshop was conducted by Dewansh Rawat, who began the workshop by introducing the attendees to the basics of HTML and CSS, for better understanding of web development, as well as Python, before beginning with the topic at hand that was automation.
+      The workshop went over two and a half hours, with enthusiastic students joining us. 
+      The framework used for this purpose was Selenium, by help of which Dewansh wrote, as well as explained to the attendees how it would help capture an Instagram display picture of a particular user in order to save it to local machines.
+      The workshop was a major success, with attendees over a score.
+  2. Machine Learning 101:     
+    Conducted by- Sumedh Bhalerao 
+      Sumedh Bhalerao conveyed the basic fundamentals as well as the importance of Machine Learning and Artificial intelligence in our day to day life by means of this workshop. 
+      The workshop went well over hours, within which the concepts of models, datasets, and the analysis of the former were thoroughly explained. 
+      Neural networks were including as a part of the two hour course, and a real life example of the different components of red wine and how it affected their sales was brought up and displayed using models trained within the session.
+      
