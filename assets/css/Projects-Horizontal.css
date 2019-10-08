@@ -9,50 +9,50 @@
 
 .projects-horizontal h2 {
   font-weight: bold;
-  margin-bottom: 40px;
-  padding-top: 40px;
+  margin-bottom: 50px;
+  padding-top: 50px;
   color: inherit;
 }
 
 @media (max-width:767px) {
   .projects-horizontal h2 {
-    margin-bottom: 25px;
-    padding-top: 25px;
-    font-size: 24px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    font-size: 30px;
   }
 }
 
 .projects-horizontal .intro {
-  font-size: 16px;
-  max-width: 500px;
-  margin: 0 auto 10px;
+  font-size: 20px;
+  max-width: 400px;
+  margin: 0 auto 8px;
 }
 
 .projects-horizontal .projects {
-  padding-bottom: 40px;
+  padding-bottom: 50px;
 }
 
 .projects-horizontal .item {
-  padding-top: 60px;
-  min-height: 160px;
+  padding-top: 50px;
+  min-height: 150px;
 }
 
-@media (max-width:767px) {
+@media (max-width:700px) {
   .projects-horizontal .item {
-    padding-top: 40px;
-    min-height: 160px;
+    padding-top: 50px;
+    min-height: 130px;
   }
 }
 
 .projects-horizontal .item .name {
   font-size: 18px;
-  font-weight: bold;
-  margin-top: 10px;
-  margin-bottom: 15px;
+  font-weight: italic;
+  margin-top: 30px;
+  margin-bottom: 30px;
   color: inherit;
 }
 
-@media (max-width:991px) {
+@media (max-width:900px) {
   .projects-horizontal .item .name {
     margin-top: 22px;
   }
