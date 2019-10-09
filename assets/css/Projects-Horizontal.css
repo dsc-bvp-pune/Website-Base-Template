@@ -24,7 +24,7 @@
 
 .projects-horizontal .intro {
   font-size: 16px;
-  max-width: 500px;
+  max-width: 70px;
   margin: 0 auto 10px;
 }
 
@@ -34,7 +34,7 @@
 
 .projects-horizontal .item {
   padding-top: 60px;
-  min-height: 160px;
+  min-height: 90px;
 }
 
 @media (max-width:767px) {
