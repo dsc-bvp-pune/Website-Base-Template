@@ -148,10 +148,14 @@
 
 .header-dark .hero h1 {
   color: #fff;
-  font-family: 'Bitter', serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 40px;
   margin-top: 20px;
   margin-bottom: 80px;
+}
+
+.header-dark .hero h3 {
+  color: #fff;
 }
 
 @media (min-width:768px) {
